@@ -11,7 +11,6 @@
 7. [Evaluation Metrics](#evaluation-metrics)
 8. [Geospatial Analysis](#geospatial-analysis)
 9. [Results Visualization](#results-visualization)
-10. [Contributing](#contributing)
 
 ## Project Overview
 
@@ -128,8 +127,3 @@ The project includes various visualizations to help interpret the results:
 - Confusion matrix heatmap
 - Per-class accuracy bar plots
 - Geospatial distribution maps
-
-
-## Contributing
-
-Contributions to this project are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit pull requests, report issues, or request features.
